@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lloyd Martin Caluag</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        h1 {
+            margin-bottom: 5px;
+        }
+
+        h2 {
+            margin-top: 30px;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        a {
+            color: #333;
+            text-decoration: none;
+        }
+
+        hr {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Lloyd Martin B. Caluag</h1>
+    <p>Information Technology Student | Virtual Assistant</p>
+
+    <hr>
+
+    <h2>About Me</h2>
+    <p>
+        I am an Information Technology student with experience in data entry,
+        e-commerce support, social media management, internet research, and
+        administrative tasks. I am eager to learn, adaptable, and committed
+        to providing quality work and reliable support.
+    </p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Data Entry</li>
+        <li>Microsoft Word</li>
+        <li>Microsoft Excel</li>
+        <li>Microsoft PowerPoint</li>
+        <li>Social Media Management</li>
+        <li>Canva Design</li>
+        <li>Basic Video Editing</li>
+        <li>Internet Research</li>
+        <li>Customer Service</li>
+        <li>Time Management</li>
+    </ul>
+
+    <h2>Experience</h2>
+    <p>
+        Part-Time Shopee Reseller Assistant
+    </p>
+    <p>
+        Assisted with product listings, inventory organization,
+        record management, and daily e-commerce operations.
+    </p>
+
+    <h2>Education</h2>
+    <p>
+        Bachelor of Science in Information Technology<br>
+        Bulacan State University
+    </p>
+
+    <h2>Projects</h2>
+    <p>
+        Participated in academic IT projects involving software development,
+        databases, and web-based applications.
+    </p>
+
+    <h2>Contact</h2>
+    <p>Email: lloydcaluag999@gmail.com</p>
+    <p>Location: Malolos, Bulacan, Philippines</p>
+
+</body>
+</html>
