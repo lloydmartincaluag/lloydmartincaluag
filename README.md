@@ -1,16 +1,34 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lloyd Martin Caluag</title>
+</head>
+<body>
+    <h1>Lloyd Martin B. Caluag</h1>
 
-<!--
-**lloydmartincaluag/lloydmartincaluag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <h2>About Me</h2>
+    <p>
+        IT student and aspiring Virtual Assistant with experience in
+        Data Entry, Social Media Management, E-commerce Support,
+        Customer Service, and Administrative Tasks.
+    </p>
 
-Here are some ideas to get you started:
+    <h2>Skills</h2>
+    <ul>
+        <li>Data Entry</li>
+        <li>Microsoft Office</li>
+        <li>Canva Design</li>
+        <li>Social Media Management</li>
+        <li>Basic Video Editing</li>
+        <li>Internet Research</li>
+    </ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <h2>Experience</h2>
+    <p>
+        Part-Time Shopee Reseller Assistant
+    </p>
+
+    <h2>Contact</h2>
+    <p>Email: lloydcaluag999@gmail.com</p>
+</body>
+</html>
